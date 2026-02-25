@@ -1,0 +1,19 @@
+cat <<EOF > .gitignore
+# Python
+venv/
+backend/venv/
+__pycache__/
+*.pyc
+
+# Build artifacts
+*.o
+*.out
+*.exe
+*.so
+
+# IDE
+.idea/
+
+# Node / misc
+node_modules/
+EOF

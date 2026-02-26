@@ -5,7 +5,7 @@
 ---
 
 ## 👥 Team Contributors
-* **Nitin Pathak**
+
 * **Chaitanya Arora**
 * **Shefali Singh**
 * **Himani Bhatnagar**

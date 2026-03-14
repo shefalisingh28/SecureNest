@@ -9,7 +9,7 @@ __pycache__/
 *.o
 *.out
 *.exe
-*.so
+*.soMAPS_API_KEY=AIzaSyBT1fe8pCE1_6xUG6DaH_IKV76XnEevK
 
 # IDE
 .idea/
@@ -17,3 +17,4 @@ __pycache__/
 # Node / misc
 node_modules/
 EOF
+.env
